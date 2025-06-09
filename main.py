@@ -33,7 +33,7 @@ st.markdown(
 
 # --- CONFIG ---
 # client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
-client = OpenAI()
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # --- ŁADOWANIE MODELU ML ---
 # Ta funkcja ładuje przetrenowany model i koduje dane tekstowe. 
