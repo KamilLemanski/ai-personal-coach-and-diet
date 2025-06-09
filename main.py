@@ -280,10 +280,11 @@ with main_col2:
             # Windows: 'C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe'
             def generate_pdf_from_html(html: str) -> bytes:
                 buffer = BytesIO()
-                pisa.CreatePDF(src=html, dest=buffer)
+                pisa.CreatePDF(src=html, dest=buffer, encoding='utf-8')
                 return buffer.getvalue()
 
             # HTML PDF
+            def create_html_template(content: str) -> str:
             html_template = f"""
             <html>
             <head>
@@ -322,6 +323,7 @@ with main_col2:
             </html>
             """
 
+            html_template = create_html_template(st.session_state.result_for_pdf)
             pdf_bytes = generate_pdf_from_html(html_template)
             
             st.download_button(
