@@ -67,6 +67,7 @@ with main_col1:
     st.markdown(
         """
         <div style="text-align: justify;">
+        <p>
         Aplikacja 🏋️‍♀️AI Trener Personalny + 🍎Dieta to kompleksowe narzędzie stworzone w języku Python z wykorzystaniem frameworka Streamlit. Bazuje na sztucznej inteligencji, wykorzystując:
 
         * przetwarzanie języka naturalnego (OpenAI GPT-4o),
