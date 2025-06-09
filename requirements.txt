@@ -5,3 +5,4 @@ pdfkit
 scikit-learn
 pandas
 xhtml2pdf
+wkhtmltopdf
