@@ -18,7 +18,7 @@ st.set_page_config(layout="wide")
 st.markdown(
     """
     <style>
-    /* Wymuszenie trybu jasnego i jawnych kolorów */
+    /* Wymuszenie trybu jasnego */
     html, body, .stApp {
         background-color: #e6ffe6 !important;
         color: #000000 !important;
@@ -30,7 +30,28 @@ st.markdown(
         color: #000000 !important;
     }
 
-    /* Dodatkowo: naprawa marginesów */
+    /* Naprawa tła i tekstu w formularzach */
+    .stSelectbox > div, .stRadio > div, .stNumberInput > div, .stTextInput > div, .stTextArea > div {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+        border-radius: 0.5rem;
+        padding: 0.25rem;
+    }
+
+    /* Przycisk: Generuj plan + Pobierz PDF */
+    .stButton > button, .stDownloadButton > button {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+        border: 1px solid #000000 !important;
+        border-radius: 8px !important;
+    }
+
+    .stButton > button:hover, .stDownloadButton > button:hover {
+        background-color: #d0ffd0 !important;
+        color: #000000 !important;
+    }
+
+    /* Naprawa marginesów aplikacji */
     .block-container {
         padding-top: 1rem;
         padding-bottom: 1rem;
