@@ -283,44 +283,44 @@ with main_col2:
                 pisa.CreatePDF(src=html, dest=buffer)
                 return buffer.getvalue()
 
-        # HTML PDF
-        html_template = f"""
-        <html>
-        <head>
-        <meta charset="UTF-8">
-        <style>
-            body {{
-                font-family: 'DejaVu Sans', Arial, sans-serif;
-                padding: 30px;
-                color: black;
-            }}
-            h1 {{
-                color: black;
-                margin-bottom: 30px;
-                text-align: center;
-                font-size: 24px;
-            }}
-            pre {{
-                white-space: pre-wrap;
-                word-wrap: break-word;
-                font-size: 14px;
-                background-color: #f9f9f9;
-                padding: 15px;
-                border-radius: 8px;
-                border: 1px solid #ddd;
-                color: black;
-            }}
-        </style>
-        </head>
-        <body>
-        
-        <h1>Plan Treningowy + Dieta</h1>
-
-        <pre>{st.session_state.result_for_pdf}</pre>
-
-        </body>
-        </html>
-        """
+            # HTML PDF
+            html_template = f"""
+            <html>
+            <head>
+            <meta charset="UTF-8">
+            <style>
+                body {{
+                    font-family: 'DejaVu Sans', Arial, sans-serif;
+                    padding: 30px;
+                    color: black;
+                }}
+                h1 {{
+                    color: black;
+                    margin-bottom: 30px;
+                    text-align: center;
+                    font-size: 24px;
+                }}
+                pre {{
+                    white-space: pre-wrap;
+                    word-wrap: break-word;
+                    font-size: 14px;
+                    background-color: #f9f9f9;
+                    padding: 15px;
+                    border-radius: 8px;
+                    border: 1px solid #ddd;
+                    color: black;
+                }}
+            </style>
+            </head>
+            <body>
+            
+            <h1>Plan Treningowy + Dieta</h1>
+    
+            <pre>{st.session_state.result_for_pdf}</pre>
+    
+            </body>
+            </html>
+            """
 
             pdf_bytes = generate_pdf_from_html(html_template)
             
