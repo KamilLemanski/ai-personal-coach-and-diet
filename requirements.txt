@@ -1,0 +1,6 @@
+streamlit
+openai
+twilio
+pdfkit
+scikit-learn
+pandas

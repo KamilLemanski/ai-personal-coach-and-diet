@@ -1,0 +1,501 @@
+Płeć,Wiek,Waga,Wzrost,Poziom aktywności,Cel,Preferencje treningowe,Dostępność sprzętu,Posiłki dziennie,Skuteczność planu,Ocena użytkownika
+Kobieta,23,58,179,średni,budowa masy mięśniowej,kalistenika,nie,5,średnia,1
+Mężczyzna,20,62,152,wysoki,budowa masy mięśniowej,cardio,nie,3,niska,1
+Kobieta,57,51,167,wysoki,rehabilitacja po urazach,pilates,tak,3,niska,1
+Mężczyzna,47,96,151,średni,zwiększenie sprawności organizmu,crossfit,tak,4,średnia,4
+Mężczyzna,27,77,150,średni,poprawa wydolności,spacery,nie,5,średnia,5
+Kobieta,28,61,154,niski,budowa masy mięśniowej,crossfit,tak,3,wysoka,1
+Mężczyzna,28,105,188,niski,budowa masy mięśniowej,spacery,nie,5,niska,3
+Mężczyzna,45,55,172,niski,rehabilitacja po urazach,fitness,nie,3,średnia,1
+Kobieta,65,105,181,wysoki,zwiększenie sprawności organizmu,spacery,tak,4,średnia,5
+Mężczyzna,46,69,191,niski,budowa masy mięśniowej,bieganie,nie,4,wysoka,1
+Kobieta,31,109,183,niski,rehabilitacja po urazach,trening obwodowy,tak,3,niska,4
+Mężczyzna,21,87,192,średni,rehabilitacja po urazach,trening siłowy,tak,5,średnia,5
+Mężczyzna,34,57,199,niski,poprawa wydolności,trening siłowy,tak,5,średnia,4
+Mężczyzna,18,94,176,wysoki,rehabilitacja po urazach,pilates,tak,4,niska,2
+Kobieta,35,70,197,wysoki,zwiększenie sprawności organizmu,kalistenika,nie,3,niska,4
+Mężczyzna,53,79,168,wysoki,budowa masy mięśniowej,joga,tak,5,średnia,3
+Mężczyzna,18,50,154,średni,budowa masy mięśniowej,crossfit,tak,5,niska,1
+Kobieta,64,96,192,wysoki,poprawa zakresu ruchu,bieganie,nie,3,średnia,3
+Kobieta,55,50,194,niski,budowa masy mięśniowej,trening siłowy,nie,4,średnia,2
+Kobieta,48,102,160,wysoki,poprawa zakresu ruchu,fitness,nie,5,średnia,4
+Mężczyzna,54,70,191,średni,zwiększenie sprawności organizmu,crossfit,tak,3,niska,2
+Mężczyzna,61,99,181,niski,zwiększenie sprawności organizmu,spacery,tak,5,niska,5
+Kobieta,54,107,153,średni,budowa masy mięśniowej,spacery,tak,4,średnia,5
+Mężczyzna,37,101,181,wysoki,poprawa wydolności,spacery,nie,5,wysoka,4
+Kobieta,54,64,168,średni,budowa masy mięśniowej,trening siłowy,tak,5,wysoka,2
+Kobieta,44,78,160,wysoki,poprawa wydolności,rower,nie,4,średnia,2
+Mężczyzna,56,70,170,niski,budowa masy mięśniowej,bieganie,nie,3,średnia,2
+Mężczyzna,48,69,185,niski,rehabilitacja po urazach,crossfit,nie,5,średnia,3
+Kobieta,36,57,178,niski,rehabilitacja po urazach,trening funkcjonalny,tak,5,średnia,3
+Mężczyzna,64,101,184,średni,redukcja tkanki tłuszczowej,pilates,nie,3,niska,1
+Mężczyzna,37,97,175,średni,zwiększenie sprawności organizmu,crossfit,nie,5,niska,2
+Kobieta,62,95,185,średni,poprawa zakresu ruchu,kalistenika,tak,3,niska,4
+Mężczyzna,28,110,182,wysoki,rehabilitacja po urazach,spacery,tak,4,niska,3
+Kobieta,50,68,153,średni,zwiększenie sprawności organizmu,trening obwodowy,tak,3,niska,4
+Mężczyzna,29,98,196,wysoki,poprawa zakresu ruchu,trening obwodowy,nie,4,niska,4
+Mężczyzna,28,108,180,wysoki,redukcja tkanki tłuszczowej,crossfit,nie,5,średnia,3
+Mężczyzna,38,91,170,wysoki,rehabilitacja po urazach,pilates,tak,3,wysoka,5
+Kobieta,41,101,158,wysoki,zwiększenie sprawności organizmu,bieganie,tak,3,niska,2
+Mężczyzna,26,73,170,niski,zwiększenie siły,trening siłowy,tak,3,wysoka,3
+Kobieta,40,63,198,niski,zwiększenie sprawności organizmu,crossfit,nie,3,wysoka,2
+Kobieta,65,89,162,niski,zwiększenie siły,rower,nie,3,średnia,1
+Mężczyzna,27,68,196,niski,poprawa zakresu ruchu,trening funkcjonalny,nie,5,wysoka,2
+Mężczyzna,45,102,177,średni,budowa masy mięśniowej,pilates,tak,5,niska,1
+Mężczyzna,39,78,168,niski,budowa masy mięśniowej,joga,tak,5,wysoka,2
+Mężczyzna,36,68,197,wysoki,zwiększenie sprawności organizmu,fitness,nie,5,niska,2
+Kobieta,45,103,172,wysoki,zwiększenie siły,bieganie,nie,4,wysoka,3
+Mężczyzna,30,53,198,wysoki,rehabilitacja po urazach,joga,nie,4,średnia,4
+Kobieta,54,66,184,wysoki,poprawa wydolności,joga,tak,5,niska,2
+Kobieta,42,108,168,średni,rehabilitacja po urazach,fitness,nie,5,niska,2
+Mężczyzna,45,58,183,średni,redukcja tkanki tłuszczowej,crossfit,tak,4,średnia,3
+Mężczyzna,21,73,170,wysoki,rehabilitacja po urazach,bieganie,nie,5,wysoka,4
+Mężczyzna,54,94,195,wysoki,redukcja tkanki tłuszczowej,spacery,nie,5,niska,5
+Kobieta,35,81,154,wysoki,zwiększenie siły,cardio,tak,5,średnia,5
+Kobieta,60,97,197,średni,poprawa zakresu ruchu,crossfit,tak,5,wysoka,1
+Mężczyzna,65,65,153,niski,zwiększenie siły,cardio,tak,3,niska,3
+Mężczyzna,36,110,161,niski,redukcja tkanki tłuszczowej,trening obwodowy,tak,3,wysoka,2
+Kobieta,34,90,180,niski,zwiększenie siły,bieganie,nie,3,wysoka,2
+Mężczyzna,28,70,190,niski,zwiększenie siły,cardio,tak,4,średnia,2
+Kobieta,27,76,165,wysoki,rehabilitacja po urazach,bieganie,nie,3,niska,1
+Kobieta,56,102,171,niski,budowa masy mięśniowej,trening funkcjonalny,nie,5,średnia,4
+Mężczyzna,39,52,175,niski,zwiększenie siły,trening siłowy,nie,3,niska,3
+Mężczyzna,36,105,162,średni,zwiększenie siły,trening obwodowy,nie,4,wysoka,2
+Kobieta,34,110,200,niski,zwiększenie sprawności organizmu,pilates,nie,3,niska,2
+Kobieta,37,53,172,wysoki,zwiększenie siły,spacery,tak,4,średnia,5
+Mężczyzna,62,81,165,niski,budowa masy mięśniowej,spacery,tak,5,średnia,3
+Mężczyzna,58,67,173,wysoki,zwiększenie sprawności organizmu,pilates,tak,4,niska,2
+Mężczyzna,63,93,183,niski,budowa masy mięśniowej,cardio,nie,3,wysoka,2
+Mężczyzna,44,67,200,wysoki,rehabilitacja po urazach,trening obwodowy,tak,5,średnia,1
+Kobieta,63,74,192,wysoki,zwiększenie siły,trening funkcjonalny,tak,5,wysoka,5
+Kobieta,62,52,173,wysoki,poprawa zakresu ruchu,trening funkcjonalny,tak,3,wysoka,5
+Kobieta,47,107,165,średni,poprawa wydolności,cardio,tak,3,wysoka,2
+Kobieta,21,87,175,niski,zwiększenie sprawności organizmu,joga,tak,3,średnia,5
+Mężczyzna,21,75,169,wysoki,zwiększenie sprawności organizmu,trening funkcjonalny,nie,3,niska,5
+Kobieta,25,61,198,średni,zwiększenie sprawności organizmu,trening funkcjonalny,nie,4,średnia,1
+Mężczyzna,57,52,152,średni,poprawa zakresu ruchu,pilates,tak,4,średnia,1
+Kobieta,23,52,165,wysoki,poprawa wydolności,bieganie,nie,4,wysoka,2
+Kobieta,56,75,167,wysoki,poprawa zakresu ruchu,cardio,tak,5,średnia,5
+Kobieta,65,85,165,niski,poprawa wydolności,joga,tak,3,niska,2
+Mężczyzna,18,66,200,średni,zwiększenie siły,trening funkcjonalny,nie,5,niska,5
+Mężczyzna,40,107,177,niski,poprawa wydolności,rower,nie,4,niska,5
+Mężczyzna,43,55,185,wysoki,poprawa wydolności,fitness,nie,3,wysoka,5
+Mężczyzna,61,74,180,wysoki,redukcja tkanki tłuszczowej,kalistenika,tak,5,wysoka,3
+Kobieta,33,98,185,niski,budowa masy mięśniowej,trening obwodowy,tak,3,wysoka,3
+Kobieta,57,76,168,średni,poprawa zakresu ruchu,kalistenika,nie,3,niska,2
+Mężczyzna,39,82,200,średni,zwiększenie sprawności organizmu,trening funkcjonalny,nie,4,wysoka,2
+Kobieta,43,97,169,niski,redukcja tkanki tłuszczowej,kalistenika,tak,3,niska,3
+Kobieta,21,56,187,średni,budowa masy mięśniowej,bieganie,nie,3,niska,3
+Kobieta,21,78,158,niski,budowa masy mięśniowej,rower,tak,5,wysoka,3
+Mężczyzna,57,69,157,niski,budowa masy mięśniowej,fitness,tak,4,średnia,1
+Kobieta,65,74,170,niski,rehabilitacja po urazach,bieganie,nie,5,średnia,3
+Mężczyzna,25,59,177,niski,poprawa zakresu ruchu,pilates,tak,3,wysoka,2
+Kobieta,45,81,177,wysoki,redukcja tkanki tłuszczowej,trening funkcjonalny,tak,5,wysoka,1
+Kobieta,36,71,185,wysoki,poprawa zakresu ruchu,trening siłowy,nie,4,wysoka,3
+Mężczyzna,59,52,197,wysoki,poprawa wydolności,trening funkcjonalny,tak,3,średnia,4
+Kobieta,64,92,188,średni,budowa masy mięśniowej,trening obwodowy,nie,5,niska,4
+Kobieta,64,101,190,wysoki,poprawa wydolności,joga,tak,4,wysoka,4
+Mężczyzna,65,79,163,średni,poprawa wydolności,crossfit,tak,5,niska,5
+Mężczyzna,28,70,198,wysoki,zwiększenie siły,trening siłowy,nie,5,średnia,3
+Mężczyzna,44,99,178,średni,rehabilitacja po urazach,trening siłowy,nie,4,wysoka,4
+Kobieta,20,58,189,średni,rehabilitacja po urazach,bieganie,nie,5,wysoka,3
+Mężczyzna,45,110,179,średni,zwiększenie siły,crossfit,tak,3,średnia,1
+Kobieta,23,69,152,wysoki,rehabilitacja po urazach,cardio,tak,4,wysoka,3
+Kobieta,47,101,176,wysoki,zwiększenie sprawności organizmu,spacery,nie,4,średnia,4
+Mężczyzna,46,76,196,wysoki,budowa masy mięśniowej,rower,nie,5,wysoka,2
+Mężczyzna,56,75,171,niski,budowa masy mięśniowej,kalistenika,nie,5,niska,4
+Kobieta,45,106,191,średni,rehabilitacja po urazach,trening funkcjonalny,tak,5,wysoka,3
+Mężczyzna,35,91,196,wysoki,redukcja tkanki tłuszczowej,crossfit,nie,5,niska,3
+Mężczyzna,36,50,179,wysoki,poprawa zakresu ruchu,fitness,nie,3,wysoka,1
+Mężczyzna,19,73,187,średni,budowa masy mięśniowej,spacery,tak,5,średnia,3
+Mężczyzna,61,52,170,średni,budowa masy mięśniowej,rower,nie,5,niska,3
+Mężczyzna,29,100,193,średni,redukcja tkanki tłuszczowej,fitness,nie,5,średnia,1
+Mężczyzna,39,86,187,wysoki,poprawa wydolności,trening obwodowy,nie,3,wysoka,1
+Mężczyzna,57,110,158,wysoki,budowa masy mięśniowej,fitness,tak,4,wysoka,5
+Kobieta,50,71,156,wysoki,rehabilitacja po urazach,cardio,tak,3,średnia,5
+Mężczyzna,33,62,186,niski,rehabilitacja po urazach,bieganie,nie,3,niska,3
+Kobieta,24,80,158,niski,budowa masy mięśniowej,rower,nie,4,wysoka,4
+Kobieta,54,107,155,wysoki,redukcja tkanki tłuszczowej,pilates,nie,5,niska,4
+Mężczyzna,46,91,193,wysoki,poprawa zakresu ruchu,kalistenika,tak,3,niska,2
+Kobieta,42,84,186,średni,redukcja tkanki tłuszczowej,rower,nie,4,niska,5
+Mężczyzna,59,90,179,niski,rehabilitacja po urazach,rower,tak,3,wysoka,4
+Kobieta,32,66,191,niski,rehabilitacja po urazach,rower,nie,5,wysoka,1
+Mężczyzna,30,56,185,niski,zwiększenie siły,trening siłowy,nie,5,niska,5
+Mężczyzna,42,50,196,wysoki,zwiększenie siły,pilates,nie,5,wysoka,2
+Mężczyzna,55,77,183,niski,redukcja tkanki tłuszczowej,trening funkcjonalny,nie,3,średnia,2
+Mężczyzna,51,67,183,niski,poprawa zakresu ruchu,trening siłowy,tak,3,średnia,5
+Kobieta,35,81,182,średni,poprawa wydolności,rower,tak,4,średnia,2
+Kobieta,65,62,152,niski,redukcja tkanki tłuszczowej,fitness,nie,5,wysoka,1
+Kobieta,62,88,160,wysoki,budowa masy mięśniowej,bieganie,tak,5,średnia,1
+Kobieta,60,89,172,niski,zwiększenie sprawności organizmu,kalistenika,nie,5,niska,4
+Kobieta,24,93,187,wysoki,rehabilitacja po urazach,trening funkcjonalny,nie,4,średnia,3
+Mężczyzna,27,63,174,wysoki,budowa masy mięśniowej,fitness,nie,3,średnia,4
+Mężczyzna,18,67,179,niski,redukcja tkanki tłuszczowej,trening obwodowy,nie,4,średnia,2
+Kobieta,62,56,178,niski,poprawa wydolności,spacery,tak,3,niska,5
+Mężczyzna,29,95,156,niski,zwiększenie siły,trening funkcjonalny,nie,3,niska,3
+Mężczyzna,43,79,156,niski,budowa masy mięśniowej,kalistenika,nie,3,niska,3
+Mężczyzna,26,62,197,średni,poprawa wydolności,trening obwodowy,nie,3,średnia,3
+Mężczyzna,24,86,159,wysoki,budowa masy mięśniowej,fitness,tak,4,wysoka,4
+Kobieta,42,74,163,średni,redukcja tkanki tłuszczowej,bieganie,tak,3,wysoka,5
+Mężczyzna,37,82,184,niski,redukcja tkanki tłuszczowej,fitness,nie,4,niska,4
+Mężczyzna,54,96,195,niski,redukcja tkanki tłuszczowej,crossfit,tak,3,niska,3
+Kobieta,26,76,163,niski,poprawa wydolności,fitness,tak,5,niska,1
+Kobieta,48,63,164,średni,zwiększenie siły,crossfit,tak,3,wysoka,3
+Kobieta,30,60,165,niski,rehabilitacja po urazach,trening funkcjonalny,tak,3,wysoka,5
+Mężczyzna,29,93,161,średni,rehabilitacja po urazach,spacery,nie,3,średnia,2
+Kobieta,31,78,200,średni,poprawa wydolności,kalistenika,nie,5,wysoka,3
+Kobieta,39,65,151,średni,redukcja tkanki tłuszczowej,trening obwodowy,nie,3,niska,3
+Mężczyzna,60,50,188,niski,zwiększenie sprawności organizmu,spacery,nie,3,niska,2
+Kobieta,43,72,159,średni,poprawa wydolności,crossfit,tak,4,niska,1
+Mężczyzna,61,93,165,wysoki,redukcja tkanki tłuszczowej,joga,tak,3,niska,4
+Mężczyzna,28,52,186,niski,poprawa wydolności,bieganie,nie,3,średnia,4
+Kobieta,18,69,185,średni,zwiększenie siły,joga,nie,5,niska,4
+Kobieta,29,97,181,średni,poprawa zakresu ruchu,pilates,tak,5,wysoka,2
+Mężczyzna,47,80,200,niski,budowa masy mięśniowej,rower,tak,5,niska,4
+Kobieta,18,63,156,średni,budowa masy mięśniowej,kalistenika,nie,5,niska,4
+Mężczyzna,32,91,180,niski,zwiększenie siły,cardio,nie,3,niska,3
+Kobieta,58,94,181,wysoki,budowa masy mięśniowej,fitness,tak,5,wysoka,4
+Kobieta,41,83,195,niski,redukcja tkanki tłuszczowej,pilates,tak,3,niska,5
+Kobieta,27,70,165,niski,zwiększenie sprawności organizmu,spacery,tak,5,niska,1
+Mężczyzna,41,85,159,niski,poprawa zakresu ruchu,crossfit,nie,3,niska,5
+Mężczyzna,64,103,178,wysoki,zwiększenie siły,crossfit,tak,5,niska,4
+Kobieta,65,85,175,średni,zwiększenie sprawności organizmu,crossfit,tak,3,wysoka,2
+Mężczyzna,31,91,200,wysoki,budowa masy mięśniowej,pilates,tak,4,wysoka,5
+Kobieta,50,62,200,wysoki,budowa masy mięśniowej,trening funkcjonalny,tak,3,niska,3
+Mężczyzna,26,64,167,średni,poprawa wydolności,fitness,tak,3,średnia,1
+Kobieta,61,98,166,niski,poprawa zakresu ruchu,fitness,tak,5,średnia,5
+Mężczyzna,27,101,151,średni,budowa masy mięśniowej,pilates,nie,3,średnia,2
+Mężczyzna,63,70,196,wysoki,poprawa wydolności,rower,tak,5,wysoka,5
+Mężczyzna,64,71,156,średni,budowa masy mięśniowej,pilates,nie,5,wysoka,3
+Mężczyzna,58,108,152,wysoki,poprawa zakresu ruchu,joga,nie,4,średnia,1
+Kobieta,62,68,180,średni,zwiększenie siły,spacery,nie,4,niska,1
+Kobieta,54,110,189,niski,redukcja tkanki tłuszczowej,trening funkcjonalny,nie,5,wysoka,3
+Kobieta,54,92,157,wysoki,redukcja tkanki tłuszczowej,kalistenika,nie,5,wysoka,2
+Kobieta,36,105,167,wysoki,budowa masy mięśniowej,cardio,tak,3,średnia,2
+Mężczyzna,52,57,153,niski,poprawa wydolności,spacery,tak,4,niska,2
+Mężczyzna,23,69,151,niski,zwiększenie siły,fitness,tak,4,wysoka,5
+Mężczyzna,44,68,155,niski,zwiększenie siły,trening funkcjonalny,tak,4,średnia,5
+Mężczyzna,54,102,172,niski,zwiększenie sprawności organizmu,trening obwodowy,tak,3,wysoka,1
+Kobieta,65,90,167,wysoki,budowa masy mięśniowej,crossfit,tak,3,niska,4
+Kobieta,28,104,162,niski,rehabilitacja po urazach,cardio,tak,4,niska,4
+Mężczyzna,35,92,189,średni,zwiększenie siły,trening siłowy,tak,5,niska,5
+Kobieta,54,102,160,niski,zwiększenie sprawności organizmu,crossfit,tak,3,niska,3
+Mężczyzna,34,70,152,wysoki,zwiększenie sprawności organizmu,trening siłowy,tak,5,wysoka,5
+Kobieta,37,110,181,niski,zwiększenie siły,pilates,tak,4,niska,4
+Kobieta,31,76,183,niski,rehabilitacja po urazach,kalistenika,nie,3,średnia,3
+Mężczyzna,44,91,179,średni,redukcja tkanki tłuszczowej,joga,nie,4,niska,5
+Kobieta,42,103,183,średni,rehabilitacja po urazach,bieganie,nie,3,niska,5
+Mężczyzna,37,77,159,niski,zwiększenie siły,bieganie,tak,3,średnia,4
+Mężczyzna,41,54,176,wysoki,zwiększenie siły,pilates,tak,3,średnia,5
+Kobieta,52,60,152,niski,zwiększenie siły,crossfit,nie,4,średnia,4
+Kobieta,58,85,151,wysoki,budowa masy mięśniowej,rower,tak,3,niska,4
+Mężczyzna,55,104,187,wysoki,redukcja tkanki tłuszczowej,trening obwodowy,nie,4,średnia,4
+Mężczyzna,48,84,150,wysoki,poprawa zakresu ruchu,crossfit,tak,3,niska,2
+Mężczyzna,25,77,164,średni,redukcja tkanki tłuszczowej,trening obwodowy,nie,3,średnia,1
+Kobieta,50,82,186,niski,budowa masy mięśniowej,joga,nie,3,niska,1
+Kobieta,56,77,154,niski,rehabilitacja po urazach,kalistenika,tak,5,średnia,3
+Mężczyzna,49,105,161,wysoki,budowa masy mięśniowej,fitness,tak,4,wysoka,1
+Mężczyzna,39,78,164,wysoki,budowa masy mięśniowej,trening funkcjonalny,nie,5,wysoka,4
+Kobieta,20,60,198,wysoki,zwiększenie siły,spacery,nie,5,wysoka,3
+Kobieta,56,59,184,niski,poprawa wydolności,bieganie,nie,5,średnia,1
+Mężczyzna,46,67,193,średni,poprawa zakresu ruchu,rower,nie,3,średnia,4
+Kobieta,42,69,200,średni,poprawa zakresu ruchu,joga,nie,5,niska,3
+Mężczyzna,48,63,163,wysoki,poprawa zakresu ruchu,fitness,nie,4,średnia,4
+Mężczyzna,32,89,156,wysoki,budowa masy mięśniowej,cardio,tak,4,wysoka,1
+Kobieta,51,86,191,średni,poprawa zakresu ruchu,trening siłowy,nie,3,wysoka,5
+Kobieta,34,69,199,średni,zwiększenie siły,bieganie,tak,5,średnia,2
+Mężczyzna,34,101,193,wysoki,poprawa zakresu ruchu,fitness,nie,4,niska,2
+Mężczyzna,36,101,190,niski,poprawa wydolności,bieganie,tak,5,niska,4
+Mężczyzna,47,70,171,niski,zwiększenie sprawności organizmu,kalistenika,nie,4,niska,4
+Mężczyzna,18,76,195,niski,poprawa wydolności,joga,tak,3,niska,5
+Mężczyzna,19,60,154,wysoki,poprawa wydolności,fitness,nie,3,średnia,5
+Kobieta,23,100,197,średni,zwiększenie sprawności organizmu,kalistenika,nie,4,niska,3
+Mężczyzna,20,97,164,wysoki,rehabilitacja po urazach,joga,tak,4,wysoka,3
+Kobieta,38,60,181,niski,poprawa wydolności,bieganie,tak,3,średnia,5
+Mężczyzna,49,90,167,niski,rehabilitacja po urazach,kalistenika,nie,5,wysoka,5
+Kobieta,63,110,188,wysoki,redukcja tkanki tłuszczowej,pilates,tak,5,średnia,3
+Kobieta,30,109,158,wysoki,budowa masy mięśniowej,crossfit,tak,4,niska,3
+Kobieta,36,60,150,wysoki,poprawa zakresu ruchu,trening obwodowy,tak,4,średnia,4
+Mężczyzna,23,73,181,średni,zwiększenie siły,cardio,tak,3,wysoka,5
+Kobieta,58,90,191,średni,rehabilitacja po urazach,trening siłowy,nie,3,niska,1
+Mężczyzna,27,61,185,wysoki,zwiększenie siły,fitness,tak,3,wysoka,1
+Mężczyzna,18,63,173,średni,rehabilitacja po urazach,kalistenika,tak,3,średnia,4
+Mężczyzna,19,65,200,wysoki,budowa masy mięśniowej,crossfit,nie,5,niska,4
+Kobieta,39,99,178,wysoki,budowa masy mięśniowej,bieganie,nie,5,wysoka,5
+Kobieta,42,102,186,niski,budowa masy mięśniowej,bieganie,tak,5,niska,4
+Kobieta,29,73,186,średni,poprawa wydolności,pilates,tak,3,średnia,2
+Mężczyzna,54,87,157,średni,redukcja tkanki tłuszczowej,trening funkcjonalny,nie,4,średnia,3
+Mężczyzna,38,88,161,niski,zwiększenie siły,joga,tak,3,niska,4
+Mężczyzna,63,58,197,niski,redukcja tkanki tłuszczowej,spacery,tak,4,średnia,3
+Kobieta,36,56,162,niski,rehabilitacja po urazach,fitness,tak,3,niska,5
+Kobieta,40,64,162,niski,zwiększenie sprawności organizmu,trening obwodowy,tak,4,średnia,1
+Kobieta,34,73,190,wysoki,zwiększenie siły,kalistenika,tak,5,niska,4
+Mężczyzna,42,66,175,średni,rehabilitacja po urazach,pilates,nie,5,średnia,4
+Mężczyzna,37,93,186,średni,zwiększenie siły,crossfit,nie,3,wysoka,3
+Kobieta,65,106,188,niski,redukcja tkanki tłuszczowej,trening obwodowy,nie,5,wysoka,2
+Mężczyzna,38,74,155,średni,poprawa wydolności,kalistenika,tak,5,średnia,5
+Kobieta,26,96,154,wysoki,poprawa wydolności,trening obwodowy,tak,4,wysoka,4
+Kobieta,48,87,164,wysoki,redukcja tkanki tłuszczowej,bieganie,tak,3,średnia,1
+Kobieta,50,99,159,średni,rehabilitacja po urazach,bieganie,nie,4,średnia,2
+Mężczyzna,54,103,196,wysoki,budowa masy mięśniowej,trening siłowy,nie,4,wysoka,4
+Mężczyzna,62,110,185,średni,budowa masy mięśniowej,trening funkcjonalny,nie,5,średnia,4
+Kobieta,56,97,194,niski,poprawa wydolności,cardio,nie,4,niska,5
+Mężczyzna,34,51,151,wysoki,rehabilitacja po urazach,pilates,nie,5,niska,5
+Mężczyzna,36,85,192,wysoki,poprawa wydolności,crossfit,tak,5,niska,5
+Mężczyzna,44,106,165,wysoki,rehabilitacja po urazach,bieganie,nie,4,średnia,1
+Mężczyzna,20,72,171,niski,poprawa zakresu ruchu,kalistenika,tak,4,średnia,3
+Kobieta,35,101,170,niski,zwiększenie siły,rower,nie,4,średnia,4
+Kobieta,57,85,162,średni,rehabilitacja po urazach,cardio,tak,4,wysoka,5
+Mężczyzna,27,104,189,średni,budowa masy mięśniowej,trening funkcjonalny,tak,5,średnia,2
+Mężczyzna,59,51,179,niski,poprawa wydolności,spacery,nie,3,średnia,2
+Kobieta,35,92,191,wysoki,rehabilitacja po urazach,pilates,tak,5,średnia,1
+Mężczyzna,32,82,153,średni,budowa masy mięśniowej,trening siłowy,tak,4,wysoka,5
+Mężczyzna,57,79,191,średni,budowa masy mięśniowej,joga,tak,5,średnia,1
+Mężczyzna,65,82,150,niski,budowa masy mięśniowej,trening siłowy,tak,3,wysoka,1
+Mężczyzna,53,65,168,wysoki,zwiększenie siły,pilates,nie,5,średnia,5
+Mężczyzna,22,84,174,niski,poprawa wydolności,fitness,tak,5,średnia,5
+Kobieta,20,54,178,wysoki,redukcja tkanki tłuszczowej,fitness,nie,4,niska,2
+Mężczyzna,62,106,169,średni,zwiększenie sprawności organizmu,trening obwodowy,nie,4,niska,5
+Mężczyzna,62,81,152,średni,zwiększenie siły,trening siłowy,tak,5,wysoka,2
+Mężczyzna,51,58,174,wysoki,zwiększenie sprawności organizmu,pilates,nie,5,średnia,4
+Mężczyzna,51,94,170,niski,zwiększenie siły,joga,tak,3,średnia,2
+Mężczyzna,63,103,183,niski,poprawa zakresu ruchu,pilates,tak,5,niska,4
+Kobieta,23,94,158,wysoki,rehabilitacja po urazach,trening obwodowy,tak,5,średnia,2
+Kobieta,41,73,180,niski,poprawa zakresu ruchu,kalistenika,nie,4,niska,4
+Mężczyzna,20,67,156,niski,poprawa zakresu ruchu,crossfit,nie,3,średnia,5
+Kobieta,44,89,167,średni,zwiększenie siły,rower,nie,3,wysoka,1
+Kobieta,54,53,154,wysoki,poprawa wydolności,rower,tak,4,średnia,2
+Mężczyzna,24,62,183,niski,budowa masy mięśniowej,spacery,tak,5,średnia,5
+Kobieta,43,97,161,średni,zwiększenie sprawności organizmu,fitness,tak,5,niska,2
+Mężczyzna,30,51,156,średni,poprawa wydolności,kalistenika,nie,4,wysoka,1
+Mężczyzna,59,71,161,wysoki,poprawa zakresu ruchu,trening siłowy,tak,4,średnia,2
+Mężczyzna,22,63,175,niski,poprawa zakresu ruchu,trening funkcjonalny,tak,4,wysoka,4
+Kobieta,21,74,158,wysoki,poprawa zakresu ruchu,trening siłowy,tak,3,średnia,1
+Kobieta,53,98,180,wysoki,rehabilitacja po urazach,fitness,nie,3,niska,3
+Kobieta,37,82,169,wysoki,rehabilitacja po urazach,spacery,nie,5,średnia,3
+Mężczyzna,52,106,158,wysoki,zwiększenie sprawności organizmu,pilates,nie,3,niska,1
+Kobieta,19,71,183,wysoki,zwiększenie sprawności organizmu,crossfit,tak,5,średnia,5
+Mężczyzna,39,100,193,niski,poprawa zakresu ruchu,cardio,tak,5,wysoka,4
+Mężczyzna,19,71,185,wysoki,zwiększenie siły,trening obwodowy,tak,3,wysoka,5
+Mężczyzna,61,83,179,wysoki,redukcja tkanki tłuszczowej,trening siłowy,nie,5,średnia,5
+Mężczyzna,60,60,155,wysoki,zwiększenie siły,trening obwodowy,tak,4,średnia,3
+Kobieta,33,59,156,średni,rehabilitacja po urazach,pilates,nie,3,średnia,2
+Mężczyzna,28,52,195,niski,zwiększenie sprawności organizmu,joga,tak,5,średnia,4
+Kobieta,41,109,172,średni,poprawa zakresu ruchu,trening siłowy,nie,3,niska,2
+Mężczyzna,41,63,163,wysoki,rehabilitacja po urazach,crossfit,tak,4,niska,4
+Mężczyzna,33,93,187,wysoki,budowa masy mięśniowej,rower,nie,3,średnia,2
+Mężczyzna,35,67,177,niski,zwiększenie siły,trening funkcjonalny,tak,4,niska,5
+Kobieta,45,100,157,wysoki,rehabilitacja po urazach,trening siłowy,tak,4,niska,3
+Kobieta,24,61,178,średni,budowa masy mięśniowej,pilates,nie,3,wysoka,1
+Mężczyzna,52,104,180,średni,budowa masy mięśniowej,bieganie,nie,3,średnia,5
+Kobieta,54,52,153,niski,zwiększenie sprawności organizmu,joga,nie,3,niska,1
+Mężczyzna,35,56,157,niski,rehabilitacja po urazach,joga,tak,5,średnia,1
+Mężczyzna,31,98,197,średni,poprawa wydolności,trening siłowy,nie,3,wysoka,2
+Mężczyzna,24,85,168,średni,poprawa zakresu ruchu,trening siłowy,tak,4,średnia,5
+Kobieta,53,89,185,niski,zwiększenie sprawności organizmu,pilates,tak,5,wysoka,5
+Mężczyzna,51,84,173,średni,zwiększenie siły,trening funkcjonalny,tak,4,wysoka,1
+Kobieta,64,85,190,niski,budowa masy mięśniowej,kalistenika,tak,5,średnia,1
+Mężczyzna,28,88,197,średni,rehabilitacja po urazach,trening siłowy,nie,4,niska,5
+Kobieta,41,84,176,niski,zwiększenie sprawności organizmu,bieganie,nie,4,wysoka,3
+Mężczyzna,46,108,153,średni,zwiększenie siły,joga,tak,3,niska,4
+Mężczyzna,36,55,182,wysoki,redukcja tkanki tłuszczowej,trening funkcjonalny,nie,3,niska,5
+Mężczyzna,35,57,158,wysoki,zwiększenie sprawności organizmu,joga,tak,4,średnia,1
+Mężczyzna,25,100,166,wysoki,zwiększenie siły,trening funkcjonalny,nie,4,niska,5
+Mężczyzna,39,70,194,niski,budowa masy mięśniowej,crossfit,tak,5,wysoka,1
+Kobieta,51,96,166,średni,zwiększenie sprawności organizmu,cardio,tak,3,średnia,3
+Mężczyzna,48,94,161,średni,zwiększenie sprawności organizmu,bieganie,nie,3,średnia,5
+Mężczyzna,41,56,167,wysoki,poprawa wydolności,crossfit,nie,4,niska,3
+Kobieta,43,77,191,wysoki,redukcja tkanki tłuszczowej,pilates,nie,3,niska,3
+Kobieta,58,77,153,średni,poprawa zakresu ruchu,joga,tak,4,średnia,3
+Kobieta,20,65,187,wysoki,redukcja tkanki tłuszczowej,trening obwodowy,tak,3,niska,3
+Mężczyzna,36,109,168,średni,zwiększenie sprawności organizmu,fitness,nie,3,niska,3
+Mężczyzna,33,53,171,wysoki,zwiększenie siły,trening siłowy,nie,3,niska,2
+Mężczyzna,38,77,177,wysoki,poprawa zakresu ruchu,rower,nie,3,niska,1
+Mężczyzna,26,106,181,niski,zwiększenie sprawności organizmu,fitness,nie,5,średnia,5
+Mężczyzna,21,86,164,wysoki,poprawa wydolności,spacery,tak,5,niska,2
+Mężczyzna,57,60,187,niski,zwiększenie siły,kalistenika,tak,3,średnia,4
+Kobieta,38,97,152,niski,budowa masy mięśniowej,spacery,tak,5,średnia,1
+Mężczyzna,40,91,151,wysoki,budowa masy mięśniowej,rower,tak,3,średnia,3
+Mężczyzna,62,103,198,średni,rehabilitacja po urazach,trening siłowy,nie,4,niska,4
+Mężczyzna,26,80,187,wysoki,rehabilitacja po urazach,bieganie,nie,3,średnia,5
+Mężczyzna,31,59,177,średni,poprawa zakresu ruchu,joga,tak,3,wysoka,3
+Kobieta,35,97,169,wysoki,redukcja tkanki tłuszczowej,trening siłowy,tak,5,niska,3
+Kobieta,36,97,170,wysoki,zwiększenie sprawności organizmu,spacery,nie,3,wysoka,4
+Kobieta,63,80,150,wysoki,poprawa wydolności,fitness,tak,4,niska,4
+Mężczyzna,27,67,172,niski,redukcja tkanki tłuszczowej,spacery,nie,5,niska,5
+Kobieta,36,50,165,niski,poprawa zakresu ruchu,trening funkcjonalny,nie,4,średnia,5
+Mężczyzna,22,106,174,średni,budowa masy mięśniowej,trening siłowy,tak,4,wysoka,4
+Mężczyzna,22,68,181,wysoki,rehabilitacja po urazach,pilates,nie,4,niska,3
+Kobieta,33,78,159,średni,rehabilitacja po urazach,fitness,nie,5,niska,3
+Mężczyzna,63,70,159,wysoki,redukcja tkanki tłuszczowej,fitness,nie,4,niska,3
+Mężczyzna,45,61,153,niski,rehabilitacja po urazach,pilates,nie,3,średnia,1
+Kobieta,33,106,153,średni,poprawa wydolności,bieganie,nie,3,średnia,3
+Mężczyzna,46,95,174,niski,poprawa wydolności,kalistenika,tak,4,wysoka,4
+Kobieta,64,57,152,niski,rehabilitacja po urazach,bieganie,tak,3,niska,1
+Mężczyzna,22,73,169,wysoki,rehabilitacja po urazach,rower,nie,5,wysoka,5
+Kobieta,50,77,173,wysoki,zwiększenie siły,kalistenika,nie,4,niska,1
+Mężczyzna,38,71,161,średni,poprawa zakresu ruchu,bieganie,nie,5,wysoka,5
+Kobieta,29,81,178,niski,redukcja tkanki tłuszczowej,bieganie,tak,3,niska,4
+Mężczyzna,64,67,151,wysoki,redukcja tkanki tłuszczowej,joga,nie,5,średnia,2
+Mężczyzna,23,107,168,wysoki,zwiększenie siły,fitness,nie,4,średnia,3
+Mężczyzna,24,51,168,wysoki,poprawa zakresu ruchu,rower,nie,4,średnia,4
+Kobieta,62,59,168,wysoki,poprawa wydolności,fitness,nie,4,średnia,4
+Mężczyzna,53,107,180,wysoki,poprawa wydolności,spacery,nie,3,niska,2
+Mężczyzna,35,99,183,średni,rehabilitacja po urazach,bieganie,tak,3,wysoka,5
+Kobieta,57,99,196,niski,poprawa wydolności,joga,nie,4,niska,1
+Kobieta,49,92,166,średni,zwiększenie siły,kalistenika,nie,4,średnia,5
+Mężczyzna,20,61,174,średni,budowa masy mięśniowej,bieganie,nie,4,wysoka,2
+Mężczyzna,45,98,155,niski,rehabilitacja po urazach,rower,tak,3,średnia,3
+Kobieta,32,99,173,niski,zwiększenie siły,joga,tak,5,średnia,4
+Kobieta,33,61,200,niski,zwiększenie sprawności organizmu,rower,nie,3,niska,5
+Kobieta,20,69,163,średni,rehabilitacja po urazach,trening funkcjonalny,tak,5,średnia,1
+Kobieta,28,85,181,wysoki,budowa masy mięśniowej,trening siłowy,tak,5,wysoka,5
+Kobieta,19,71,197,niski,zwiększenie sprawności organizmu,joga,tak,5,średnia,1
+Mężczyzna,40,104,164,niski,redukcja tkanki tłuszczowej,trening siłowy,nie,3,niska,1
+Kobieta,18,65,194,średni,poprawa zakresu ruchu,bieganie,tak,3,wysoka,2
+Mężczyzna,50,62,173,średni,zwiększenie siły,joga,tak,5,niska,5
+Mężczyzna,49,81,188,niski,poprawa wydolności,kalistenika,tak,5,wysoka,3
+Kobieta,61,98,195,średni,poprawa wydolności,crossfit,nie,3,wysoka,4
+Mężczyzna,61,103,187,niski,budowa masy mięśniowej,trening obwodowy,tak,3,średnia,1
+Mężczyzna,63,80,197,niski,zwiększenie siły,fitness,nie,3,wysoka,4
+Kobieta,62,81,180,średni,rehabilitacja po urazach,pilates,tak,3,niska,3
+Kobieta,27,102,188,niski,redukcja tkanki tłuszczowej,fitness,nie,3,wysoka,4
+Kobieta,40,75,164,wysoki,zwiększenie sprawności organizmu,joga,nie,3,wysoka,1
+Mężczyzna,56,103,154,niski,zwiększenie sprawności organizmu,rower,tak,4,średnia,3
+Kobieta,24,96,153,niski,zwiększenie siły,bieganie,nie,3,niska,2
+Mężczyzna,21,73,159,średni,zwiększenie sprawności organizmu,trening funkcjonalny,tak,5,niska,2
+Mężczyzna,29,74,184,średni,poprawa zakresu ruchu,trening obwodowy,nie,3,niska,4
+Mężczyzna,44,82,174,niski,redukcja tkanki tłuszczowej,joga,tak,3,niska,1
+Mężczyzna,40,60,190,wysoki,poprawa wydolności,rower,nie,3,średnia,1
+Kobieta,34,103,155,niski,zwiększenie sprawności organizmu,kalistenika,tak,5,wysoka,1
+Mężczyzna,26,110,199,niski,poprawa wydolności,crossfit,tak,4,średnia,1
+Kobieta,29,79,154,wysoki,budowa masy mięśniowej,bieganie,nie,3,średnia,1
+Kobieta,52,100,172,średni,poprawa wydolności,spacery,nie,5,wysoka,5
+Mężczyzna,38,101,166,średni,zwiększenie sprawności organizmu,trening siłowy,tak,4,niska,1
+Kobieta,46,70,176,średni,rehabilitacja po urazach,fitness,tak,3,niska,3
+Mężczyzna,60,58,153,wysoki,zwiększenie sprawności organizmu,trening siłowy,tak,3,wysoka,1
+Mężczyzna,24,89,155,średni,poprawa wydolności,fitness,nie,5,średnia,3
+Kobieta,24,76,188,niski,poprawa wydolności,cardio,nie,5,wysoka,1
+Kobieta,29,73,157,średni,rehabilitacja po urazach,bieganie,tak,3,niska,5
+Kobieta,59,78,185,niski,poprawa wydolności,cardio,tak,4,średnia,5
+Mężczyzna,42,75,150,wysoki,poprawa zakresu ruchu,crossfit,nie,4,niska,3
+Kobieta,55,90,153,wysoki,poprawa wydolności,bieganie,nie,4,wysoka,2
+Kobieta,31,73,188,średni,rehabilitacja po urazach,trening funkcjonalny,nie,3,średnia,1
+Kobieta,25,59,197,wysoki,poprawa zakresu ruchu,cardio,tak,5,niska,4
+Kobieta,32,88,167,wysoki,zwiększenie sprawności organizmu,rower,tak,5,niska,4
+Mężczyzna,29,51,176,średni,rehabilitacja po urazach,joga,tak,3,niska,2
+Kobieta,28,109,180,wysoki,zwiększenie siły,joga,tak,4,wysoka,3
+Kobieta,53,106,168,niski,rehabilitacja po urazach,trening funkcjonalny,tak,3,średnia,5
+Mężczyzna,62,79,182,średni,budowa masy mięśniowej,kalistenika,tak,5,średnia,2
+Kobieta,59,71,157,średni,zwiększenie sprawności organizmu,spacery,tak,3,wysoka,4
+Kobieta,45,81,180,wysoki,poprawa wydolności,rower,tak,3,niska,3
+Mężczyzna,18,93,154,niski,poprawa wydolności,bieganie,tak,5,wysoka,5
+Mężczyzna,27,58,162,wysoki,budowa masy mięśniowej,cardio,tak,5,średnia,2
+Mężczyzna,53,105,192,wysoki,poprawa wydolności,rower,nie,3,średnia,5
+Kobieta,57,105,162,średni,rehabilitacja po urazach,crossfit,tak,5,niska,5
+Kobieta,33,82,182,wysoki,rehabilitacja po urazach,fitness,tak,5,średnia,2
+Mężczyzna,49,82,198,niski,poprawa zakresu ruchu,spacery,nie,4,niska,5
+Mężczyzna,24,103,173,niski,zwiększenie sprawności organizmu,fitness,nie,4,średnia,2
+Kobieta,59,64,169,średni,zwiększenie sprawności organizmu,joga,nie,5,wysoka,1
+Mężczyzna,53,109,170,średni,poprawa zakresu ruchu,fitness,nie,5,wysoka,4
+Mężczyzna,63,75,167,niski,budowa masy mięśniowej,joga,nie,3,wysoka,3
+Mężczyzna,40,58,170,wysoki,rehabilitacja po urazach,trening funkcjonalny,tak,4,średnia,5
+Kobieta,48,95,173,średni,redukcja tkanki tłuszczowej,kalistenika,tak,5,niska,5
+Kobieta,36,52,175,średni,poprawa wydolności,pilates,nie,5,wysoka,4
+Mężczyzna,48,65,173,wysoki,rehabilitacja po urazach,crossfit,nie,4,średnia,5
+Kobieta,54,66,190,niski,poprawa zakresu ruchu,kalistenika,nie,3,średnia,5
+Mężczyzna,62,75,200,średni,poprawa zakresu ruchu,cardio,nie,5,niska,5
+Kobieta,43,72,184,wysoki,redukcja tkanki tłuszczowej,joga,tak,4,średnia,5
+Mężczyzna,39,87,176,niski,poprawa wydolności,trening siłowy,tak,4,wysoka,3
+Mężczyzna,40,59,185,niski,poprawa zakresu ruchu,cardio,tak,3,niska,4
+Mężczyzna,59,53,183,wysoki,poprawa zakresu ruchu,kalistenika,nie,5,średnia,3
+Mężczyzna,19,60,180,niski,zwiększenie siły,trening siłowy,tak,5,wysoka,4
+Kobieta,24,54,184,niski,poprawa wydolności,spacery,tak,3,średnia,2
+Kobieta,52,74,181,średni,rehabilitacja po urazach,pilates,nie,4,wysoka,3
+Kobieta,46,75,181,niski,poprawa zakresu ruchu,trening siłowy,nie,3,średnia,3
+Kobieta,21,105,172,wysoki,zwiększenie sprawności organizmu,cardio,tak,3,średnia,4
+Mężczyzna,18,78,186,wysoki,budowa masy mięśniowej,cardio,nie,3,wysoka,4
+Mężczyzna,64,86,192,średni,redukcja tkanki tłuszczowej,spacery,nie,4,średnia,4
+Mężczyzna,25,57,162,średni,rehabilitacja po urazach,cardio,tak,4,wysoka,4
+Kobieta,39,94,178,średni,zwiększenie sprawności organizmu,crossfit,tak,5,wysoka,4
+Kobieta,26,67,166,wysoki,rehabilitacja po urazach,cardio,nie,5,wysoka,3
+Mężczyzna,25,84,194,wysoki,budowa masy mięśniowej,cardio,tak,5,wysoka,4
+Mężczyzna,56,61,198,wysoki,redukcja tkanki tłuszczowej,cardio,nie,5,wysoka,4
+Mężczyzna,32,92,168,niski,rehabilitacja po urazach,crossfit,tak,3,wysoka,4
+Kobieta,28,68,150,niski,poprawa zakresu ruchu,fitness,nie,3,średnia,5
+Mężczyzna,34,84,189,niski,poprawa wydolności,fitness,nie,5,niska,3
+Kobieta,24,52,150,wysoki,rehabilitacja po urazach,fitness,tak,3,wysoka,2
+Mężczyzna,39,85,184,wysoki,zwiększenie siły,trening funkcjonalny,nie,3,wysoka,4
+Mężczyzna,60,93,192,wysoki,budowa masy mięśniowej,trening funkcjonalny,tak,5,wysoka,2
+Mężczyzna,38,55,193,wysoki,redukcja tkanki tłuszczowej,trening funkcjonalny,tak,5,wysoka,4
+Kobieta,60,92,161,wysoki,zwiększenie sprawności organizmu,bieganie,tak,3,średnia,4
+Mężczyzna,50,107,162,niski,rehabilitacja po urazach,trening obwodowy,nie,4,średnia,4
+Mężczyzna,58,78,150,niski,redukcja tkanki tłuszczowej,bieganie,tak,5,niska,4
+Kobieta,53,73,200,niski,zwiększenie siły,joga,tak,3,niska,2
+Kobieta,59,95,159,średni,redukcja tkanki tłuszczowej,trening funkcjonalny,nie,3,niska,3
+Kobieta,40,98,150,niski,budowa masy mięśniowej,trening siłowy,nie,3,wysoka,4
+Mężczyzna,41,96,152,średni,poprawa zakresu ruchu,cardio,tak,3,średnia,2
+Kobieta,53,107,173,niski,rehabilitacja po urazach,trening obwodowy,nie,4,wysoka,4
+Kobieta,50,82,193,wysoki,rehabilitacja po urazach,cardio,tak,3,średnia,5
+Kobieta,39,85,195,niski,poprawa zakresu ruchu,fitness,tak,5,niska,2
+Kobieta,45,73,194,wysoki,budowa masy mięśniowej,crossfit,tak,4,średnia,1
+Mężczyzna,31,86,172,średni,zwiększenie siły,rower,tak,3,średnia,5
+Mężczyzna,44,53,200,wysoki,redukcja tkanki tłuszczowej,trening obwodowy,nie,4,średnia,2
+Mężczyzna,23,82,169,wysoki,rehabilitacja po urazach,pilates,tak,3,wysoka,5
+Mężczyzna,23,76,199,wysoki,budowa masy mięśniowej,fitness,tak,5,niska,5
+Kobieta,60,51,161,wysoki,poprawa wydolności,rower,nie,5,niska,3
+Mężczyzna,19,61,168,wysoki,zwiększenie sprawności organizmu,crossfit,tak,3,niska,4
+Mężczyzna,56,109,170,średni,rehabilitacja po urazach,bieganie,tak,4,średnia,4
+Kobieta,29,63,169,wysoki,budowa masy mięśniowej,trening obwodowy,nie,5,wysoka,3
+Kobieta,43,65,200,średni,zwiększenie siły,trening obwodowy,nie,5,wysoka,5
+Mężczyzna,34,53,190,wysoki,rehabilitacja po urazach,cardio,tak,3,wysoka,2
+Kobieta,48,57,193,niski,redukcja tkanki tłuszczowej,joga,tak,3,wysoka,1
+Kobieta,31,78,167,średni,poprawa zakresu ruchu,spacery,nie,3,wysoka,4
+Mężczyzna,59,66,165,niski,budowa masy mięśniowej,joga,nie,5,średnia,3
+Kobieta,59,53,159,niski,zwiększenie siły,spacery,tak,4,niska,2
+Kobieta,51,83,154,wysoki,zwiększenie siły,bieganie,nie,5,wysoka,3
+Kobieta,40,86,165,średni,rehabilitacja po urazach,bieganie,tak,5,niska,5
+Mężczyzna,40,62,179,wysoki,zwiększenie sprawności organizmu,fitness,tak,3,średnia,5
+Kobieta,55,88,189,wysoki,poprawa wydolności,crossfit,nie,4,niska,1
+Kobieta,37,64,169,niski,poprawa wydolności,fitness,tak,5,wysoka,1
+Mężczyzna,26,89,159,wysoki,poprawa zakresu ruchu,crossfit,nie,5,niska,1
+Mężczyzna,50,91,195,wysoki,redukcja tkanki tłuszczowej,joga,tak,5,niska,3
+Kobieta,51,108,194,niski,redukcja tkanki tłuszczowej,trening funkcjonalny,tak,5,niska,3
+Kobieta,19,88,162,wysoki,poprawa wydolności,crossfit,nie,3,wysoka,5
+Kobieta,41,80,182,wysoki,budowa masy mięśniowej,kalistenika,nie,3,niska,1
+Mężczyzna,23,59,161,wysoki,rehabilitacja po urazach,trening siłowy,tak,3,niska,4
+Kobieta,35,104,176,wysoki,poprawa zakresu ruchu,spacery,tak,5,niska,1
+Mężczyzna,59,76,160,niski,poprawa zakresu ruchu,crossfit,nie,3,wysoka,3
+Kobieta,45,93,158,niski,poprawa wydolności,fitness,tak,3,niska,1
+Mężczyzna,18,65,150,niski,poprawa wydolności,rower,nie,4,średnia,2
+Mężczyzna,50,96,159,wysoki,budowa masy mięśniowej,spacery,tak,3,średnia,5
+Mężczyzna,47,94,184,wysoki,budowa masy mięśniowej,bieganie,tak,5,wysoka,1
+Kobieta,26,70,194,średni,poprawa zakresu ruchu,cardio,tak,4,średnia,3
+Kobieta,39,94,176,niski,poprawa zakresu ruchu,trening obwodowy,tak,4,wysoka,4
+Kobieta,38,73,189,wysoki,redukcja tkanki tłuszczowej,fitness,tak,5,wysoka,1
+Kobieta,27,53,197,wysoki,rehabilitacja po urazach,spacery,nie,3,niska,4
+Mężczyzna,36,104,171,niski,redukcja tkanki tłuszczowej,crossfit,tak,3,średnia,3
+Mężczyzna,33,60,186,średni,zwiększenie sprawności organizmu,trening siłowy,nie,3,średnia,3
+Kobieta,44,99,161,średni,poprawa wydolności,trening funkcjonalny,tak,3,wysoka,2
+Kobieta,40,102,196,wysoki,budowa masy mięśniowej,crossfit,nie,5,niska,3
+Kobieta,27,56,197,niski,zwiększenie siły,fitness,tak,4,średnia,4
+Kobieta,45,60,162,wysoki,redukcja tkanki tłuszczowej,joga,tak,5,średnia,2
+Mężczyzna,49,70,169,wysoki,rehabilitacja po urazach,spacery,tak,5,niska,4
+Mężczyzna,28,94,169,wysoki,budowa masy mięśniowej,crossfit,nie,3,średnia,4
+Kobieta,53,75,190,wysoki,zwiększenie sprawności organizmu,bieganie,nie,3,wysoka,2
+Kobieta,58,86,172,wysoki,redukcja tkanki tłuszczowej,crossfit,nie,3,wysoka,5
+Mężczyzna,42,103,166,wysoki,poprawa wydolności,kalistenika,nie,4,niska,1
+Kobieta,18,65,174,niski,zwiększenie siły,trening siłowy,tak,3,średnia,4
+Kobieta,56,93,174,niski,redukcja tkanki tłuszczowej,bieganie,tak,4,niska,2
+Kobieta,26,90,181,średni,poprawa wydolności,trening obwodowy,nie,4,średnia,3
+Mężczyzna,34,77,153,średni,rehabilitacja po urazach,pilates,tak,5,wysoka,4
+Kobieta,38,97,191,wysoki,poprawa zakresu ruchu,spacery,nie,3,średnia,1
+Kobieta,35,92,158,niski,poprawa wydolności,trening funkcjonalny,tak,5,niska,5
+Mężczyzna,47,84,156,średni,poprawa wydolności,cardio,tak,5,niska,2
+Mężczyzna,55,88,151,średni,poprawa wydolności,spacery,tak,5,niska,5
+Mężczyzna,19,66,188,średni,zwiększenie sprawności organizmu,trening funkcjonalny,nie,3,wysoka,4
+Kobieta,27,77,181,średni,poprawa zakresu ruchu,pilates,nie,5,średnia,1
+Mężczyzna,49,95,198,średni,zwiększenie siły,fitness,tak,5,wysoka,3
+Kobieta,59,77,198,niski,rehabilitacja po urazach,fitness,nie,4,wysoka,5
+Kobieta,18,69,186,niski,zwiększenie siły,trening siłowy,nie,3,wysoka,3
+Mężczyzna,49,50,169,średni,zwiększenie sprawności organizmu,pilates,tak,3,średnia,2
