@@ -317,7 +317,7 @@ with main_col2:
             # UWAGA: Poniższa ścieżka może wymagać dostosowania w zależności od środowiska.
             # Linux/macOS: '/usr/local/bin/wkhtmltopdf'
             # Windows: 'C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe'
-            config = pdfkit.configuration(wkhtmltopdf="/usr/local/bin/wkhtmltopdf")
+            config = pdfkit.configuration(wkhtmltopdf=wkhtmltopdf_path)
             pdf_bytes = pdfkit.from_string(html_template, False, configuration=config, options={"enable-local-file-access": ""})
             
             st.download_button(
