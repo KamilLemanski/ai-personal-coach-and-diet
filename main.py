@@ -18,14 +18,23 @@ st.set_page_config(layout="wide")
 st.markdown(
     """
     <style>
-    body {
-        background-color: #e6ffe6; /* Light green background */
+    /* Wymuszenie trybu jasnego i jawnych kolorów */
+    html, body, .stApp {
+        background-color: #e6ffe6 !important;
+        color: #000000 !important;
+        color-scheme: light !important;
     }
-    .stApp {
-        background-color: #e6ffe6; /* Ensures the Streamlit app container also has the background color */
+
+    /* Tekst wewnątrz komponentów Streamlit */
+    .stMarkdown, .stText, .stTextInput, .stTextArea, .stSelectbox, .stRadio, .stNumberInput, .stDownloadButton, .stButton, label, div, span {
+        color: #000000 !important;
     }
-    /* The previous CSS selector for justification was unstable.
-       We will now apply justification directly within the markdown content. */
+
+    /* Dodatkowo: naprawa marginesów */
+    .block-container {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
     </style>
     """,
     unsafe_allow_html=True
