@@ -1,3 +1,4 @@
+pdfkit
 streamlit
 openai
 xhtml2pdf
