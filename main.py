@@ -1,8 +1,7 @@
 import streamlit as st
 from openai import OpenAI
 import datetime
-from xhtml2pdf import pisa
-from io import BytesIO
+import pdfkit
 import pickle
 import pandas as pd
 import base64
@@ -272,59 +271,54 @@ with main_col2:
     - 🟠 **Średnia skuteczność planu** - plan może zadziałać, ale wymaga wysokiej samodyscypliny lub korekty (np. ograniczony dostęp do sprzętu; przeciętna liczba posiłków i umiarkowany poziom aktywności; wiek, waga lub wzrost użytkownika mogą wymagać bardziej indywidualnego podejścia; zbyt ogólne preferencje treningowe).
     - 🟢 **Wysoka skuteczność planu** - plan jest bardzo dobrze dopasowany i prawdopodobnie doprowadzi do zamierzonego celu. Plan zawiera spójne cele, poziom aktywności i preferencje treningowe. Wygenerowana propozycja zawiera dobry bilans posiłków oraz brak ograniczeń zdrowotnych.
     """)
+
+
+        # HTML PDF
+        html_template = f"""
+        <html>
+        <head>
+        <meta charset="UTF-8">
+        <style>
+            body {{
+                font-family: 'DejaVu Sans', Arial, sans-serif;
+                padding: 30px;
+                color: black;
+            }}
+            h1 {{
+                color: black;
+                margin-bottom: 30px;
+                text-align: center;
+                font-size: 24px;
+            }}
+            pre {{
+                white-space: pre-wrap;
+                word-wrap: break-word;
+                font-size: 14px;
+                background-color: #f9f9f9;
+                padding: 15px;
+                border-radius: 8px;
+                border: 1px solid #ddd;
+                color: black;
+            }}
+        </style>
+        </head>
+        <body>
+        
+        <h1>Plan Treningowy + Dieta</h1>
+
+        <pre>{st.session_state.result_for_pdf}</pre>
+
+        </body>
+        </html>
+        """
         
         try:
             pdf_filename = f"plan_{datetime.date.today()}.pdf"
             # UWAGA: Poniższa ścieżka może wymagać dostosowania w zależności od środowiska.
             # Linux/macOS: '/usr/local/bin/wkhtmltopdf'
             # Windows: 'C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe'
-            def generate_pdf_from_html(html: str) -> bytes:
-                buffer = BytesIO()
-                pisa.CreatePDF(src=html, dest=buffer, encoding='utf-8')
-                return buffer.getvalue()
-
-            # HTML PDF
-            def create_html_template(content: str) -> str:
-            html_template = f"""
-            <html>
-            <head>
-            <meta charset="UTF-8">
-            <style>
-                body {{
-                    font-family: 'DejaVu Sans', Arial, sans-serif;
-                    padding: 30px;
-                    color: black;
-                }}
-                h1 {{
-                    color: black;
-                    margin-bottom: 30px;
-                    text-align: center;
-                    font-size: 24px;
-                }}
-                pre {{
-                    white-space: pre-wrap;
-                    word-wrap: break-word;
-                    font-size: 14px;
-                    background-color: #f9f9f9;
-                    padding: 15px;
-                    border-radius: 8px;
-                    border: 1px solid #ddd;
-                    color: black;
-                }}
-            </style>
-            </head>
-            <body>
-            
-            <h1>Plan Treningowy + Dieta</h1>
-    
-            <pre>{st.session_state.result_for_pdf}</pre>
-    
-            </body>
-            </html>
-            """
-
-            html_template = create_html_template(st.session_state.result_for_pdf)
-            pdf_bytes = generate_pdf_from_html(html_template)
+            config = pdfkit.configuration(wkhtmltopdf="/usr/local/bin/wkhtmltopdf")
+            pdf_bytes = pdfkit.from_string(html_template, False, configuration=config, options={"enable-local-file-access": ""})
             
             st.download_button(
                 label="📄 Pobierz plan jako PDF",
