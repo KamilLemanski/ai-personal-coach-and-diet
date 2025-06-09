@@ -318,8 +318,6 @@ with main_col2:
             # UWAGA: Poniższa ścieżka może wymagać dostosowania w zależności od środowiska.
             # Linux/macOS: '/usr/local/bin/wkhtmltopdf'
             # Windows: 'C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe'
-            config = pdfkit.configuration(wkhtmltopdf="/usr/local/bin/wkhtmltopdf")
-           
             def generate_pdf_from_html(html: str) -> bytes:
                 buffer = BytesIO()
                 pisa.CreatePDF(src=html, dest=buffer)
