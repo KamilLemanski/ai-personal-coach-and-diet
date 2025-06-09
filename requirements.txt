@@ -4,3 +4,4 @@ twilio
 pdfkit
 scikit-learn
 pandas
+xhtml2pdf
