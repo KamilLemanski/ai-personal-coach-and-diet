@@ -272,7 +272,16 @@ with main_col2:
     - 🟠 **Średnia skuteczność planu** - plan może zadziałać, ale wymaga wysokiej samodyscypliny lub korekty (np. ograniczony dostęp do sprzętu; przeciętna liczba posiłków i umiarkowany poziom aktywności; wiek, waga lub wzrost użytkownika mogą wymagać bardziej indywidualnego podejścia; zbyt ogólne preferencje treningowe).
     - 🟢 **Wysoka skuteczność planu** - plan jest bardzo dobrze dopasowany i prawdopodobnie doprowadzi do zamierzonego celu. Plan zawiera spójne cele, poziom aktywności i preferencje treningowe. Wygenerowana propozycja zawiera dobry bilans posiłków oraz brak ograniczeń zdrowotnych.
     """)
-
+        
+        try:
+            pdf_filename = f"plan_{datetime.date.today()}.pdf"
+            # UWAGA: Poniższa ścieżka może wymagać dostosowania w zależności od środowiska.
+            # Linux/macOS: '/usr/local/bin/wkhtmltopdf'
+            # Windows: 'C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe'
+            def generate_pdf_from_html(html: str) -> bytes:
+                buffer = BytesIO()
+                pisa.CreatePDF(src=html, dest=buffer)
+                return buffer.getvalue()
 
         # HTML PDF
         html_template = f"""
@@ -312,16 +321,6 @@ with main_col2:
         </body>
         </html>
         """
-        
-        try:
-            pdf_filename = f"plan_{datetime.date.today()}.pdf"
-            # UWAGA: Poniższa ścieżka może wymagać dostosowania w zależności od środowiska.
-            # Linux/macOS: '/usr/local/bin/wkhtmltopdf'
-            # Windows: 'C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe'
-            def generate_pdf_from_html(html: str) -> bytes:
-                buffer = BytesIO()
-                pisa.CreatePDF(src=html, dest=buffer)
-                return buffer.getvalue()
 
             pdf_bytes = generate_pdf_from_html(html_template)
             
