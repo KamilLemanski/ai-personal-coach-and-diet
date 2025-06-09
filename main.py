@@ -1,7 +1,8 @@
 import streamlit as st
 from openai import OpenAI
 import datetime
-import pdfkit
+from xhtml2pdf import pisa
+from io import BytesIO
 import pickle
 import pandas as pd
 import base64
@@ -317,8 +318,14 @@ with main_col2:
             # UWAGA: Poniższa ścieżka może wymagać dostosowania w zależności od środowiska.
             # Linux/macOS: '/usr/local/bin/wkhtmltopdf'
             # Windows: 'C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe'
-            config = pdfkit.configuration(wkhtmltopdf=wkhtmltopdf_path)
-            pdf_bytes = pdfkit.from_string(html_template, False, configuration=config, options={"enable-local-file-access": ""})
+            config = pdfkit.configuration(wkhtmltopdf="/usr/local/bin/wkhtmltopdf")
+           
+            def generate_pdf_from_html(html: str) -> bytes:
+                buffer = BytesIO()
+                pisa.CreatePDF(src=html, dest=buffer)
+                return buffer.getvalue()
+
+            pdf_bytes = generate_pdf_from_html(html_template)
             
             st.download_button(
                 label="📄 Pobierz plan jako PDF",
