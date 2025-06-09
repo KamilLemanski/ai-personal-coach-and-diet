@@ -1,6 +1,6 @@
 streamlit
 openai
-twilio
-pdfkit
-scikit-learn
+xhtml2pdf
 pandas
+Pillow
+scikit-learn
