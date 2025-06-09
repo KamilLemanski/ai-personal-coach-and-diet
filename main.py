@@ -14,47 +14,6 @@ from PIL import Image
 # st.set_page_config() musi być piewszą komendą Streamlit.
 st.set_page_config(layout="wide")
 
-# --- CUSTOMOWE TŁO ---
-st.markdown(
-    """
-    <style>
-    html, body, .stApp {
-        background-color: #e6ffe6 !important;
-        color: #000000 !important;
-        color-scheme: light !important;
-    }
-
-    /* Naprawa tekstu wewnątrz formularzy */
-    input, select, textarea, div[role="textbox"], .stButton > button {
-        background-color: #ffffff !important;
-        color: #000000 !important;
-        border: 1px solid #000000 !important;
-        border-radius: 6px !important;
-    }
-
-    /* Tekst w dropdownach (po otwarciu) */
-    .css-1d391kg, .css-1cpxqw2 {
-        color: #000000 !important;
-        background-color: #ffffff !important;
-    }
-
-    /* Przycisk hover */
-    .stButton > button:hover {
-        background-color: #d0ffd0 !important;
-        color: #000000 !important;
-        border: 1px solid #000000 !important;
-    }
-
-    .block-container {
-        padding-top: 1rem;
-        padding-bottom: 1rem;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
-
-
 # --- CONFIG ---
 # client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
